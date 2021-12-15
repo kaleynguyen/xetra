@@ -16,5 +16,6 @@ Given an input of the first date, extract all the transformed data elements from
 Auto-detection of the source files to be process since each job is expensive
 Configurable production-ready Python job to be invariant to the column names of the source bucket 
 
-# Production Environment 
+# Production Environment
+
 ![Production Env](https://github.com/kaleynguyen/xetra/blob/xetra/images/production_environment.pdf)
