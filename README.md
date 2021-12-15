@@ -17,4 +17,4 @@ Auto-detection of the source files to be process since each job is expensive
 Configurable production-ready Python job to be invariant to the column names of the source bucket 
 
 # Production Environment 
-![alt text]('/images/production_enviorment.pdf')
+![Production Env](images/production_environment.pdf)
