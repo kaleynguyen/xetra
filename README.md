@@ -17,4 +17,4 @@ Auto-detection of the source files to be process since each job is expensive
 Configurable production-ready Python job to be invariant to the column names of the source bucket 
 
 # Production Environment
-![production_environment.pdf](https://github.com/kaleynguyen/xetra/files/7722730/production_environment.png)
+![production_environment.pdf](./images/production_environment.png)
