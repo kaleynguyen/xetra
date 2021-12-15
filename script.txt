@@ -1,0 +1,18 @@
+which python
+where python
+pip install pipenv
+cd project
+pipenv shell --python 3.9 or 3.8.10
+pip list
+pip install pandas numpy awscli jupyter boto3 
+pipenv --venv
+
+#Accessing resources at public s3 bucket
+aws s3 ls s3://deutsche-boerse-xetra-pds/2021-10-27 --recursive --no-sign-request
+
+#Exit and Enter the virtualenv
+exit #deactivate the current virtual env
+pipenv shell #activate the current virtual env
+
+#awscli commands
+aws configure 
